@@ -1,0 +1,21 @@
+h1{
+color: #ffff1a;
+}
+p{font-family: cursive;
+color: #ffff00
+}
+.secondP{ font-family: cursive;
+color: #ffff00
+}
+.thirdP{ font-family: cursive;
+  color: #ffff00
+}
+Body{
+background-image: url("sparkle.gif");
+    background-repeat: no-repeat;
+    background-size: 1000px 1000px;
+}
+
+.boxed {
+  border: 1px dotted green ;
+}
